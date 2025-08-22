@@ -85,7 +85,7 @@ Checks if a user has a specific role and returns detailed information including 
 
 ## Contract Address
 
-**Contract Address**: `SP2J6ZY48GV1EZ5V2V5RB9MP66SW86PYKKNRV9EJ7.access-control-library`
+**Contract Address**: `ST1VQ2SE62PKE9ATSVV2KQ98A5KWNVF8TKN5MVJ5C.accesscontrollibrary`
 
 ## Screenshots
 
